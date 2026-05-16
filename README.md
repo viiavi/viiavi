@@ -7,7 +7,7 @@ I specialize in bridging the gap between **high-assurance security** and **resou
 ### Featured Projects
 
 #### QuantumShield
-**RTOS Middleware for PQC Migration** | *Private repo — available on request*
+**RTOS Middleware for PQC Migration** (https://github.com/viiavi/quantumshield)
 - Designed a Zephyr-based middleware for runtime classical-to-PQC migration on nRF54L15 (Cortex-M33, TrustZone).
 - Implements hybrid ML-KEM-768 + ECDH key exchange with a three-state transition engine persisted across reboots.
 - Constraint-aware AI selector profiling RAM/flash/CPU at boot — validated on hardware achieving ML-KEM-768 keygen in 9ms at 128MHz.
