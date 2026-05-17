@@ -1,4 +1,4 @@
-# Hi, I'm Vainavi (viiavi)
+# Hi, I'm Vainavi 
 ### Embedded Systems Engineer
 I specialize in bridging the gap between **high-assurance security** and **resource-constrained embedded systems**. My work focuses on Post-Quantum Cryptography (PQC) migration, hardware-rooted trust, and real-time observability.
 
